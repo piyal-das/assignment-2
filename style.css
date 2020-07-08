@@ -1,0 +1,21 @@
+body{
+    font-family: 'Noto Serif', serif; 
+}
+.first-part,{
+    background-color: #d4edda;   
+}
+.img-fluid{
+    max-width: 100%;
+}
+.container{
+    margin: 30px;
+    
+}
+.need-shadow{
+    box-shadow: 3px 3px 8px 10px lightgray;
+    
+    
+ }
+ .col-md-3{
+    border-radius: 10px;  
+ }
